@@ -31,6 +31,6 @@ Various parameters can be changed for training or evaluating the model in the fi
 
 # Running pretrained model
 ##### Evaluation
-To run the pretrained model please download the *mufold_ss.h5* from [this link](https://drive.google.com/open?id=1NZ8MO94W-YPfRx60wj2p2bEeYxmEC1LZ). and place it in the *./MUFOLD-SS* folder.
+To run the pretrained model please download the file *mufold_ss.h5* from [this link](https://drive.google.com/open?id=1NZ8MO94W-YPfRx60wj2p2bEeYxmEC1LZ) and place it in the *./MUFOLD-SS* folder.
 Then run the following command:
 > python3 evaluate.py
